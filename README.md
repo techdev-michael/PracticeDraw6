@@ -28,3 +28,4 @@ HenCoder 绘制 6 属性动画 练习项目
 ![](images/project_sample.png)
 
 练习做完，这期的内容也就掌握得差不多了。
+Michael git push test.
